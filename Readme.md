@@ -1,0 +1,1 @@
+Projecte fet al primer curs de DAW que imita la xarxa social X(Twitter) utilitzant tècniques bàsiques de PHP HTML i CSS.
